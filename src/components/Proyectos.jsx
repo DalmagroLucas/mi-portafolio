@@ -3,6 +3,7 @@ export default function Proyectos() {
     <section className="py-20 bg-gray-800 text-white px-8">
       <h2 className="text-3xl font-bold mb-10 text-center">Mis Proyectos</h2>
       <div className="max-w-4xl mx-auto grid gap-8">
+        
         {/* Tarjeta de Proyecto 1 */}
         <div className="bg-gray-700 p-6 rounded-lg shadow-lg">
           <h3 className="text-2xl font-bold text-blue-400">Sistema de Gestión</h3>
