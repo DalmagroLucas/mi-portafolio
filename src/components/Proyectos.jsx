@@ -1,6 +1,6 @@
 export default function Proyectos() {
   return (
-    <section className="py-20 bg-gray-800 text-white px-8">
+    <section className="py-20 bg-gray-800 text-black px-8" style={{ color: "black" }}>
       <h2 className="text-3xl font-bold mb-10 text-center">Mis Proyectos</h2>
       <div className="max-w-4xl mx-auto grid gap-8">
         
